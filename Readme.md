@@ -63,19 +63,7 @@
 </p>
 
 ---
-### 📊 GitHub Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/wildtigress/wildtigress/main/github-contributions.png" width="600" alt="GitHub Contribution Graph"/>
-</p>
-
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wildtigress&theme=radical"/>
-</p>
-
----
 
 ### 🏆 GitHub Trophies
 

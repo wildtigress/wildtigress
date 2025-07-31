@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="120" alt="Working Penguin"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="480" alt="Working Penguin"/>
 </p>
 <h1 align="center">Hi 👋, I'm Samiksha aka wildtigress</h1>
 <h3 align="center">BCA Graduate | AI/ML + Analytics Enthusiast | Full Stack Learner</h3>
@@ -63,6 +63,11 @@
 </p>
 
 ---
+### 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wildtigress/wildtigress/main/github-contributions.png" width="600" alt="GitHub Contribution Graph"/>
+</p>
 
 ### 🔥 GitHub Streak
 

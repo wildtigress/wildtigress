@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/1kJV0AxkzGqRrlwhIR/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="120" alt="Working Penguin"/>
 </p>
 <h1 align="center">Hi 👋, I'm Samiksha aka wildtigress</h1>
 <h3 align="center">BCA Graduate | AI/ML + Analytics Enthusiast | Full Stack Learner</h3>
 
 - 🎓 BCA Graduate from Lovely Professional University  
 - 🧠 Passionate about Data Science, Deep Learning,Web Development and Real-world Problem Solving  
-- 🔭 Working on: ML projects, SPSS reports, and dashboard-based insights  
+- 🔭 Working on: ML projects, SPSS reports, Hadoop,Kaafka and dashboard-based insights  
 - 🌱 Learning: MERN Stack, Power BI with DAX, and MLOps ,HTML,CSS,JS 
 - 🏆 Achievements:  
   - 🥇 1st – IBM Datathon (Mar 2024)  

@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://media.tenor.com/images/339bf838f96734d9461f8ec1c8c81fd8/tenor.gif" width="200"/>
+  <img src="https://media.giphy.com/media/1kJV0AxkzGqRrlwhIR/giphy.gif" width="200"/>
 </p>
 <h1 align="center">Hi 👋, I'm Samiksha aka wildtigress</h1>
 <h3 align="center">BCA Graduate | AI/ML + Analytics Enthusiast | Full Stack Learner</h3>
 
-- 🎓 Currently a final-year BCA student from Lovely Professional University  
-- 🧠 Passionate about Data Science, Deep Learning, and Real-world Problem Solving  
+- 🎓 BCA Graduate from Lovely Professional University  
+- 🧠 Passionate about Data Science, Deep Learning,Web Development and Real-world Problem Solving  
 - 🔭 Working on: ML projects, SPSS reports, and dashboard-based insights  
-- 🌱 Learning: MERN Stack, Power BI with DAX, and MLOps  
+- 🌱 Learning: MERN Stack, Power BI with DAX, and MLOps ,HTML,CSS,JS 
 - 🏆 Achievements:  
   - 🥇 1st – IBM Datathon (Mar 2024)  
   - 🥉 3rd – IBM Cloud Computing Workshop (Nov 2023)  

@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.tenor.com/images/339bf838f96734d9461f8ec1c8c81fd8/tenor.gif" width="200"/>
+</p>
 <h1 align="center">Hi 👋, I'm Samiksha aka wildtigress</h1>
 <h3 align="center">BCA Graduate | AI/ML + Analytics Enthusiast | Full Stack Learner</h3>
 
